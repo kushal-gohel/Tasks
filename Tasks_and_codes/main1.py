@@ -1,7 +1,7 @@
-from fastapi import FastAPI, Path, HTTPException, Query, UploadFile
-from fastapi.responses import JSONResponse
-from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel, Field
+from fastapi import FastAPI, Path, HTTPException, Query, UploadFile #type:ignore
+from fastapi.responses import JSONResponse #type: ignore
+from fastapi.middleware.cors import CORSMiddleware  #type: ignore
+from pydantic import BaseModel, Field  #type: ignore
 from typing import Annotated, Optional
 import json
 
