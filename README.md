@@ -24,9 +24,14 @@ Link: https://github.com/kushal-gohel/Tasks/blob/main/Tasks_and_codes/Image%20Ge
 
 
 **Day 5 Tasks:**
-MAIN -> Tasks -> Day_4_Day_5_Tasks.ipynb (Code for Prompt Engineering Tasks) 
+Location: MAIN -> Tasks -> Day_4_Day_5_Tasks.ipynb (Code for Prompt Engineering Tasks) 
 Link: https://github.com/kushal-gohel/Tasks/blob/main/Day_4_Day_5_Tasks.ipynb
 
 **Day 6 - 8 Tasks:**
-MAIN -> Tasks -> tasks.ipynb 
+Location: MAIN -> Tasks -> tasks.ipynb 
 Link: https://github.com/kushal-gohel/Tasks/blob/main/tasks.ipynb
+
+
+**Day 9 Tasks**
+Location: MAIN -> Tasks -> Tasks_and_codes -> Day_9_Tasks.ipynb
+Link: https://github.com/kushal-gohel/Tasks/blob/main/Tasks_and_codes/Day_9%20Tasks.ipynb
