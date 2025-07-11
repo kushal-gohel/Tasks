@@ -2,3 +2,4 @@
 .env:1
 .venv
 .env
+*venv
